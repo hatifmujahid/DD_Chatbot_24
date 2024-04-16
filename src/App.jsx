@@ -8,7 +8,7 @@ export default function App() {
       <Navbar />
       <div className="max-w-4xl mx-auto p-4">
     <h1 className="relative z-10 text-4xl sm:text-2xl md:text-4xl lg:text-6xl xl:text-8xl bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600 text-center font-sans font-bold">
-        Developer's Day 2024 Chatbot
+        E.Ocean Developers' Day 2024 Chatbot
     </h1>
     <p></p>
     <p className="text-neutral-500 max-w-2xl mx-auto my-2 text-lg sm:text-base md:text-2xl text-center relative z-10">
