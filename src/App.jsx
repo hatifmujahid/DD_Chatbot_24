@@ -14,8 +14,7 @@ export default function App() {
     <p className="text-neutral-500 max-w-2xl mx-auto my-2 text-lg sm:text-base md:text-2xl text-center relative z-10">
         Welcome to Developer's Day, 2024! <br />
         We are excited to have you here. <br />
-        This is a chatbot to help you with all the information you need for the event. <br />
-        Click on the chat icon below to get started. <br />
+        Click on the chat icon on the right to get started. <br />
 
     </p>
   </div>
